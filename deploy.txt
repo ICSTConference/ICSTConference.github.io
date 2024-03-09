@@ -1,0 +1,16 @@
+location=/userfiles/icst
+echo Copying files to icst website: $location/
+
+files="icst-call-for-conf.html icst-corporate-sponsorship.html icst-ethics.html icst-instructions-sessionchairs.html icst-proposal-guide.html previousICSTs.html index.html"
+
+chmod u+w $location/*
+
+for f in $files
+do
+ echo copying $f
+ cp $f $location/
+ echo "+++++++++++++++++++++++++++++++++++++"
+ echo
+done
+
+chmod u-w $location/*

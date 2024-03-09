@@ -1,0 +1,12 @@
+location=/userfiles/icst
+echo Comparing files to icst website files: $location/
+
+files="2columnLeftNav.css CS_logo.gif ICST-logo.jpg stvr-coverimage.gif ICST-Charter.doc icst-call-for-conf.html icst-charter-style.css icst-charter.html icst-corporate-sponsorship.html icst-ethics.html icst-instructions-sessionchairs.html index.html lgren034.jpg icst-2014-announce.html  icst-2015-announce.html icst-proposal-guide.html"
+
+for f in $files
+do
+ echo comparing $f
+ diff $f $location/$f
+ echo "+++++++++++++++++++++++++++++++++++++"
+ echo
+done

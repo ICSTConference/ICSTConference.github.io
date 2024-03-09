@@ -1,0 +1,74 @@
+***DRAFT***
+6 May, 2008 - not approved by the ICST SC
+
+
+                             ICST Proposals
+
+The ICST Steering Committee actively solicits proposals for future conferences.
+As stated in the charter, we desire to have conferences planned at least
+two years in the future. Competing proposals will be evaluated on strategic
+as well as tactical criteria. The primary strategic criterion is based on
+geography--an explict ICST goal, as encoded in the charter, is to locate
+the conference in geographically diverse locations.
+
+The rest of this document describes specific points the steering committee would
+like to see addressed in a proposal. We also outline general goals for some
+of these points. Addressing these points is especially important when competing
+proposals are submitted to the SC.
+
+Charter : It is essential that proposers read the ICST charter before putting
+together the proposal. ICST has a strong charter with rules that need to be
+followed rigorously.
+
+General Chair : All proposals must identify a general chair. The general chair
+should have good standing in the field of testing, verification and validation,
+should have prior involvement in ICST, and should have experience organizing
+conferences. ICST is sponsored by the IEEE, so prior experience with IEEE
+conferences is very beneficial. It is perfectly fine to have co-General Chairs.
+
+Program Chair : All proposals must identify a program chair. It is common practice
+to have two co-program chairs to distribute the load and to provide a more diverse
+collection of experience. The program chair (or chairs) must have a strong
+technical reputation in the field of testing, verification and validation and must
+have been involved with prior ICST conferences.
+
+When necessary, the SC will facilitate getting future GCs and PCs involved in
+ICST conferences as members of the technical program committee. The proposal
+should highlight previous experience with ICST and previous experience
+in organizing other conferences.
+
+Other Organizers : When possible, it will help a proposal to identify other
+members of the organizing committee. Identifying one or more
+industrial track chairs will be especially helpful.
+
+Location : The location of the conference is essential to any proposal. The SC
+will try to locate the conference in different locations; regularly locating in
+North America, Europe, and Asia.
+
+Venue : Information about the venue will indicate advance planning
+and will help the SC.  ICST 2008 had 220 attendees and 3 tracks, so
+it is important that the venue be able to handle this load.
+
+Travel : ICST attracts a world-wide audience, and convenience of travel, including
+local teavel, will be considered, specifically for attendees from other continents.
+
+Corporate Involvement : ICST emphasizes a strong industry-academic
+connection. If the proposal could address plans for involving
+industry (especially local) to the conference, either throgh
+sponsorship or attendees, that would be helpful.
+
+Budget Information : Conferences have been getting more expensive and ICST has
+conflicting goals. The IEEE expects the conference to not lose money (and prefers
+ICST to make a profit), while at the same time we want to keep attendance of the
+conference affordable for young scientists and students. Preliminary information
+about costs of registration, hotel and local expenses are important to evaluate
+a proposal.
+
+Program Information : Any information about the planned program, particularly
+plans beyond the expected technical and industry tracks, should be provided.
+
+
+The ICST SC reserves the right to ask for changes in a proposal, including
+asking for more information, recommendating changes to the organizing committee,
+requesting the proposal to wait for a later year, and in the case of strong
+competing proposals, suggesting proposals be combined.

@@ -1,0 +1,33 @@
+p{text-align:justify}
+li{text-align:justify}
+a:hover {background:white}
+
+h1 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 125%;
+ text-align: center;
+ background-color: #ddeeff;
+ color:#000088
+}
+
+h2 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 115%;
+ text-align: center;
+ background-color: #ddeeff;
+ color:#000088
+}
+
+h3 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 110%;
+ font-style:italic;
+ background-color: #ddeeff;
+ color:#000088
+}
+
+#siteInfo{
+ font-size: 75%;
+ color: #aaaaaa;
+ padding: 0px 10px 10px 10px;
+}
